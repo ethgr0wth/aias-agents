@@ -1,0 +1,4 @@
+requests>=2.28.0
+fpdf2>=2.7.0
+aiassist-secure-intelligence>=1.1.0
+python-dotenv>=1.0.0
